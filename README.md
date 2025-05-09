@@ -34,18 +34,24 @@ Build a system that recommends movies similar to a user's selected movie using c
 ## 🧪 How to Run Locally
 
 ### 1. Clone the repo
+```bash
 git clone https://github.com/Nehaa-Prasad/movie-recommendation.git
-cd movie-recommendation
+cd movie-recommendation 
+```
 
 ### 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the notebook
 Open Movie_recommendation_system.ipynb in Jupyter Notebook or VS Code and run the cells.
 
 ### 4. (Optional) Run Streamlit app
 If you created a frontend:
+```bash
 streamlit run app.py
+```
 
 ---
 
