@@ -50,7 +50,7 @@ If you created a frontend:
 ```bash
 streamlit run app.py
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 -Add collaborative filtering using user ratings
 -Connect to a live movie API (e.g., TMDB)
 -Deploy the model using Flask/Streamlit on Render/Heroku
